@@ -3,7 +3,7 @@ package test;
 public class ArraySort {
 
 	public static void main(String[] args) {
-		// Сортировка массива "пузырьком"
+
 		int[] array = {30, 2, 10, 4, 6};
 		int length = array.length;
 		int a, b, c;
